@@ -1,5 +1,14 @@
 # Jotstar_Lio-merger
-##Datamodel:
+## 🚀 Project Overview
+This project analyzes OTT subscriber behavior by evaluating content consumption, subscription trends, and user inactivity patterns. It leverages  Power BI  to extract insights from data.
+
+## 🔍 Key Analysis Areas:
+✅ Content Library Comparison 📚
+✅ Subscriber Growth & Retention 📈
+✅ Inactivity & Engagement Trends 🛑
+✅ Upgrade & Downgrade Patterns 🔄
+✅ Device & Watch Time Analysis 📺
+## Datamodel:
 Here you can check the Data Model which is used for this project.
 ![image](https://github.com/user-attachments/assets/de3334f1-fbd2-4b61-99c6-a8d3e0461c6d)
 ## live dashboard: 
